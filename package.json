@@ -1,0 +1,16 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "rest api con express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
